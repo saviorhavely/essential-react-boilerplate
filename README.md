@@ -17,7 +17,7 @@ yarn
 ## Usage
 
 ```sh
-para instalar as dependências do projeto
+yarn dev
 ```
 
 ## Run tests
