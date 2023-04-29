@@ -10,7 +10,14 @@
 
 ## Features
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,sass,ts,jest)](https://skillicons.dev)
+O projeto foi desenvolvido utilizando as seguintes tecnologias: 
+
+- [Vite](https://vitejs.dev/)
+- [ReactJS](https://reactjs.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [Redux](https://redux.org/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
 
 ## Install
 
