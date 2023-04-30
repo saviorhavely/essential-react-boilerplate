@@ -1,9 +1,13 @@
 import ApplicationRoutes from './routes'
+import { Provider } from 'react-redux'
+import { store } from './store'
 
 function App(): JSX.Element {
   return (
     <>
-      <ApplicationRoutes />
+      <Provider store={store}>
+        <ApplicationRoutes />
+      </Provider>
     </>
   )
 }
